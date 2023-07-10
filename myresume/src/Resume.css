@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(189, 251, 4);  
+    margin: 0;
+      padding: 0;
+      text-align:center;
+    }
+    .resume-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .resume-content {
+      text-align: center;
+    }
+    .resume-content ul {
+      padding-left: 0; /* Remove default padding */
+    }
+    .resume-content ul li {
+      list-style: none; /* Remove bullet points */
+    }
+
+  
